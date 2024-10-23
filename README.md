@@ -1,3 +1,4 @@
+[![Build Status](https://chin-su-kim.visualstudio.com/ContosoAir/_apis/build/status%2Fcskim8771.ContosoAir?branchName=master)](https://chin-su-kim.visualstudio.com/ContosoAir/_build/latest?definitionId=6&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
